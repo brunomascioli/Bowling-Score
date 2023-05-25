@@ -1,4 +1,4 @@
-# Trabalho feito por: Bruno Mascioli de Souza e Lucas Pereira dos Santos
+# feito por: Bruno Mascioli de Souza e Lucas Pereira dos Santos
 
 jogadas = list(map(int, input().split()))
 
