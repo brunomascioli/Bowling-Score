@@ -1,5 +1,6 @@
-# feito por: Bruno Mascioli de Souza e Lucas Pereira dos Santos
-
+# feito por: 
+# Bruno Mascioli de Souza - github: brunomascioli
+# Lucas Pereira dos Santos - github: LucassSantoss
 jogadas = list(map(int, input().split()))
 
 i = 0
